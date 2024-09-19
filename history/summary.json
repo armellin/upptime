@@ -4,19 +4,19 @@
     "url": "http://www.retepfu.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.retepfu.it.ico",
     "slug": "rete-pfu",
-    "status": "down",
-    "uptime": "63.41%",
-    "uptimeDay": "63.41%",
-    "uptimeWeek": "63.41%",
-    "uptimeMonth": "63.41%",
-    "uptimeYear": "63.41%",
-    "time": 787,
-    "timeDay": 787,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "58.29%",
+    "uptimeDay": "58.29%",
+    "uptimeWeek": "58.29%",
+    "uptimeMonth": "58.29%",
+    "uptimeYear": "58.29%",
+    "time": 723,
+    "timeDay": 723,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-09-19": 44
+      "2024-09-19": 55
     }
   },
   {
