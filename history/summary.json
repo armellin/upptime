@@ -4,18 +4,20 @@
     "url": "http://www.retepfu.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.retepfu.it.ico",
     "slug": "rete-pfu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
     "time": 879,
     "timeDay": 879,
     "timeWeek": 879,
     "timeMonth": 879,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "EcoTyre",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1259,
-    "timeDay": 1259,
-    "timeWeek": 1259,
-    "timeMonth": 1259,
-    "timeYear": 1259,
+    "time": 1078,
+    "timeDay": 1078,
+    "timeWeek": 1078,
+    "timeMonth": 1078,
+    "timeYear": 1078,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1978,
-    "timeDay": 1978,
-    "timeWeek": 1978,
-    "timeMonth": 1978,
-    "timeYear": 1978,
+    "time": 1668,
+    "timeDay": 1668,
+    "timeWeek": 1668,
+    "timeMonth": 1668,
+    "timeYear": 1668,
     "dailyMinutesDown": {}
   },
   {
