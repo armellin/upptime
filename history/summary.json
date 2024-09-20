@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.retepfu.it.ico",
     "slug": "rete-pfu",
     "status": "up",
-    "uptime": "57.04%",
-    "uptimeDay": "57.04%",
-    "uptimeWeek": "57.04%",
-    "uptimeMonth": "57.04%",
-    "uptimeYear": "57.04%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "uptime": "73.53%",
+    "uptimeDay": "73.53%",
+    "uptimeWeek": "73.53%",
+    "uptimeMonth": "73.53%",
+    "uptimeYear": "73.53%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-09-19": 391
+      "2024-09-19": 380
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 849,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2161,
-    "timeDay": 2161,
-    "timeWeek": 2161,
-    "timeMonth": 2161,
-    "timeYear": 2161,
+    "time": 3179,
+    "timeDay": 3179,
+    "timeWeek": 3179,
+    "timeMonth": 3179,
+    "timeYear": 3179,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2890,
-    "timeDay": 2890,
-    "timeWeek": 2890,
-    "timeMonth": 2890,
-    "timeYear": 2890,
+    "time": 3745,
+    "timeDay": 3745,
+    "timeWeek": 3745,
+    "timeMonth": 3745,
+    "timeYear": 3745,
     "dailyMinutesDown": {}
   }
 ]
