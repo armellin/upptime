@@ -47,7 +47,7 @@
     "url": "https://yoga.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/yoga.armellin.com.ico",
     "slug": "yoga",
-    "status": "up",
+    "status": "down",
     "uptime": "96.12%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "99.83%",
@@ -59,6 +59,7 @@
     "timeMonth": 2599,
     "timeYear": 2435,
     "dailyMinutesDown": {
+      "2025-02-08": 0,
       "2025-02-07": 17,
       "2024-12-23": 652,
       "2024-12-22": 1440,
