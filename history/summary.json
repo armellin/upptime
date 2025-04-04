@@ -24,7 +24,7 @@
     "url": "http://ritiri.ecotyre.it",
     "icon": "https://icons.duckduckgo.com/ip3/ritiri.ecotyre.it.ico",
     "slug": "eco-tyre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 651,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2025-04-04": 0,
       "2024-09-30": 127,
       "2024-09-25": 194,
       "2024-09-24": 774,
