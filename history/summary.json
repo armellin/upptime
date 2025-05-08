@@ -47,10 +47,10 @@
     "url": "https://yoga.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/yoga.armellin.com.ico",
     "slug": "yoga",
-    "status": "up",
+    "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "91.50%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "97.15%",
     "time": 2593,
@@ -59,7 +59,7 @@
     "timeMonth": 3178,
     "timeYear": 2593,
     "dailyMinutesDown": {
-      "2025-05-08": 122,
+      "2025-05-08": 123,
       "2025-03-07": 22,
       "2025-02-22": 702,
       "2025-02-08": 720,
@@ -81,9 +81,9 @@
     "slug": "openbsd-a",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 1356,
     "timeDay": 4393,
@@ -91,7 +91,7 @@
     "timeMonth": 1147,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2025-05-08": 123
+      "2025-05-08": 148
     }
   }
 ]
