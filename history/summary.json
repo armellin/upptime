@@ -81,9 +81,9 @@
     "url": "http://www.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.armellin.com.ico",
     "slug": "openbsd-a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.72%",
@@ -93,6 +93,7 @@
     "timeMonth": 2813,
     "timeYear": 1699,
     "dailyMinutesDown": {
+      "2025-07-31": 0,
       "2025-07-20": 23,
       "2025-05-09": 686,
       "2025-05-08": 543
