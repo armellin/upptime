@@ -82,7 +82,7 @@
     "url": "http://www.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.armellin.com.ico",
     "slug": "openbsd-a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "79.27%",
     "uptimeWeek": "96.04%",
