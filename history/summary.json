@@ -82,17 +82,25 @@
     "url": "http://www.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.armellin.com.ico",
     "slug": "openbsd-a",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2157,
-    "timeDay": 12176,
-    "timeWeek": 9281,
-    "timeMonth": 5518,
-    "timeYear": 2157,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "70.91%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.61%",
+    "time": 2193,
+    "timeDay": 12763,
+    "timeWeek": 9564,
+    "timeMonth": 5725,
+    "timeYear": 2193,
+    "dailyMinutesDown": {
+      "2025-08-12": 362,
+      "2025-08-11": 108,
+      "2025-08-10": 101,
+      "2025-07-31": 26,
+      "2025-07-20": 23,
+      "2025-05-09": 686,
+      "2025-05-08": 543
+    }
   }
 ]
