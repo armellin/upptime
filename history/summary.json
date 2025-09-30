@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 971,
-    "timeWeek": 999,
-    "timeMonth": 793,
+    "timeDay": 1017,
+    "timeWeek": 1027,
+    "timeMonth": 800,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -29,14 +29,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 785,
-    "timeDay": 1287,
-    "timeWeek": 806,
-    "timeMonth": 758,
+    "timeDay": 637,
+    "timeWeek": 777,
+    "timeMonth": 753,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2025-08-07": 27,
-      "2025-07-17": 137,
-      "2024-09-30": 127
+      "2025-07-17": 137
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga.armellin.com.ico",
     "slug": "yoga",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
-    "time": 2871,
-    "timeDay": 1487,
-    "timeWeek": 2432,
-    "timeMonth": 3709,
-    "timeYear": 2867,
+    "uptimeYear": "98.53%",
+    "time": 2876,
+    "timeDay": 4633,
+    "timeWeek": 2900,
+    "timeMonth": 3815,
+    "timeYear": 2872,
     "dailyMinutesDown": {
       "2025-05-09": 727,
       "2025-05-08": 518,
@@ -66,8 +65,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1316,
       "2024-10-19": 654,
-      "2024-10-05": 399,
-      "2024-09-30": 652
+      "2024-10-05": 399
     }
   },
   {
@@ -81,10 +79,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2176,
-    "timeDay": 693,
-    "timeWeek": 2377,
-    "timeMonth": 1984,
+    "time": 2171,
+    "timeDay": 309,
+    "timeWeek": 1732,
+    "timeMonth": 1979,
     "timeYear": 2121,
     "dailyMinutesDown": {
       "2025-08-14": 56,
