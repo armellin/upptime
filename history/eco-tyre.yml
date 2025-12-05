@@ -1,7 +1,7 @@
 url: http://ritiri.ecotyre.it
-status: up
-code: 200
-responseTime: 880
-lastUpdated: 2025-12-04T23:24:47.165Z
+status: down
+code: 500
+responseTime: 686
+lastUpdated: 2025-12-05T12:23:01.108Z
 startTime: 2024-09-19T01:40:15.913Z
 generator: Upptime <https://github.com/upptime/upptime>
