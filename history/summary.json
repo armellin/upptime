@@ -51,22 +51,22 @@
     "url": "https://yoga.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/yoga.armellin.com.ico",
     "slug": "yoga",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
-    "time": 3394,
-    "timeDay": 1375,
-    "timeWeek": 2901,
-    "timeMonth": 3986,
-    "timeYear": 3466,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.94%",
+    "time": 3395,
+    "timeDay": 1317,
+    "timeWeek": 2695,
+    "timeMonth": 3898,
+    "timeYear": 3460,
     "dailyMinutesDown": {
       "2026-02-26": 56,
       "2026-02-27": 72,
       "2026-04-09": 86,
-      "2026-07-22": 5
+      "2026-07-22": 95
     }
   },
   {
@@ -74,17 +74,17 @@
     "url": "http://www.armellin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.armellin.com.ico",
     "slug": "openbsd-a",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 3587,
-    "timeDay": 6881,
-    "timeWeek": 4797,
-    "timeMonth": 6125,
-    "timeYear": 3883,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.83%",
+    "time": 3614,
+    "timeDay": 10124,
+    "timeWeek": 5868,
+    "timeMonth": 6358,
+    "timeYear": 3908,
     "dailyMinutesDown": {
       "2025-07-31": 26,
       "2025-08-10": 101,
@@ -93,7 +93,7 @@
       "2025-08-14": 56,
       "2025-12-16": 45,
       "2026-04-09": 86,
-      "2026-07-22": 0
+      "2026-07-22": 90
     }
   }
 ]
